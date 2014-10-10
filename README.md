@@ -42,6 +42,7 @@ This cycle of lift,rest,lift,rest repeats for each repetition
 After all the reps are completed, the final part of the lift cycle is a longer pause for the cooldown duration. Once the cooldown duration is completed, the watch returns to step 1) and the operation repeats.
 
 THE TIMER ICON:
+
 A short press of the SELECT button while the Timer icon is highlighted brings up the timer settings menu.
 
 The timer follows a "ready...get set...go" idea.  The lifter uses a prep time ("ready") to get equipment ready, uses the warning time ("get set") to settle down on the equipment, adjust grips, etc.  Then the reps are performed  ("go").  After the reps are completed a cooldown period is used to recover before the next activity. 
