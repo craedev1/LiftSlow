@@ -29,6 +29,7 @@ Next, a series of short double vibes will signal the "Set" and will go off once 
 
 3) Lift !!
 A long vibe indicates that beginning of a lift. After the long vibe, a series of short vibes count out the seconds of the beginning/positive stroke of the lift. Another long vibe indicates the end of the beginning/positive stroke.  
+
 In the shoulder press example, the following 5 second lift sequence would occur:
 
 A long vibe (start lifting), short vibe, short vibe, short vibe, short vibe, a long vibe (end lifting).
