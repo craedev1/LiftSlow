@@ -17,7 +17,7 @@ THE START ICON:
 
 + A long press of the SELECT button (a HOLD) while the Start/Pause icon is highlighted will reset the timer and stop all vibes.
 
-For example, imagine a shoulder press with the default 10 second prep time, 5 second warning time with a 5-second up-lift, 1 second rest, 5-second down-lift, and 1 second rest. 
+For example, imagine a shoulder press with the default 10 second prep time, 5 second warning time with a 5-second up-lift, 2 second rest, 5-second down-lift, and 2 second rest. 
 
 After pressing SELECT with the Start icon highlighted the following will happen:
 
@@ -29,14 +29,21 @@ Next, a series of short double vibes will signal the "Set" and will go off once 
 
 3) Lift !!
 A long vibe indicates that beginning of a lift. After the long vibe, a series of short vibes count out the seconds of the beginning/positive stroke of the lift. Another long vibe indicates the end of the beginning/positive stroke.  
+In the shoulder press example, the following 5 second lift sequence would occur:
 
-Next, there is a pause for the rest interval at the top of the positive stroke. Beware, a one second rest is not a very long time !!
+A long vibe (start lifting), short vibe, short vibe, short vibe, short vibe, a long vibe (end lifting).
+
+Notice that there are only 4 short vibes, but this is a 5 second lift interval (Hint, count the number of commas). It is helpful to mentally count 1,2,3,4,5 during the lift to keep track of where you are in the lift count. 
+
+Next, there is a 2 second pause for the rest interval at the top of the beginning/positive lift stroke.
 
 Then another long vibe to indicate the start of the finish/negative stroke of the lift.  A series of short vibes then count out the seconds of the stroke and another long vibe ends the finish/negative stroke.
 
+Again, it is mentally helpful to count 1,2,3,4,5 during the lift to keep track of where you are in the lift count.  
+
 Next there is a pause for the rest interval at the bottom of the finish/negative stroke.
 
-This cycle of lift,rest,lift,rest repeats for each repetition
+The process repeats for each repetition.
 
 4) Cooldown !!
 After all the reps are completed, the final part of the lift cycle is a longer pause for the cooldown duration. Once the cooldown duration is completed, the watch returns to step 1) and the operation repeats.
@@ -63,6 +70,13 @@ The Cycle display shows the lift cycle in the format of, for example 10:2:5:1 wh
   5 = 5 seconds for the finish/negative stroke of the rep
   
   1 = 1 second rest before beginning the next rep
+  
+Perhaps some useful lift times are:
+
++ Slow Bench Press or Squat (6:1:6:2) - 6 second 'slow' down stroke, a 1 second hold, a 6 second 'slow' up stroke, and a 2 second rest
+
++ Explosive Bench Press or Squat (8:0:1:2) - 8 second 'slow' down stroke, no rest, a 1 second 'explosive' up stroke, and a 2 second rest
+
 
 NOTE: a long press of the SELECT button (a HOLD) while the Timer icon is highlighted swaps the positive and negative lifting times.  This is helpful when you are doing rapid positive lifts and slow negative lifts. In the shoulder press, the weights typically start in a down position so you want an explosive positive lift followed by a slow negative lift. In contrast, with a bench press the weights typically start in an up position so you want to begin with a slow negative lift followed by a explosive positive lift.  Swapping the lift cycle with a (HOLD) can assist in moving between these types of exercises more rapidly.
 
