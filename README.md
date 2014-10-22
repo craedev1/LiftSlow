@@ -74,7 +74,7 @@ The Cycle display shows the lift cycle in the format of, for example 10:2:5:1 wh
   
 Perhaps some useful lift times are:
 
-+ Slow Bench Press (6:1:6:2) - 6 second 'slow' down stroke, a 1 second hold, a 6 second 'slow' up stroke, and a 2 second rest
++ Slow Bench Press (8:1:8:2) - 8 second 'slow' down stroke, a 1 second hold, a 8 second 'slow' up stroke, and a 2 second rest
 
 + Explosive Bench Press (8:0:1:2) - 8 second 'slow' down stroke, no rest, a 1 second 'explosive' up stroke, and a 2 second rest
 
