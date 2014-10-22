@@ -74,9 +74,9 @@ The Cycle display shows the lift cycle in the format of, for example 10:2:5:1 wh
   
 Perhaps some useful lift times are:
 
-+ Slow Bench Press or Squat (6:1:6:2) - 6 second 'slow' down stroke, a 1 second hold, a 6 second 'slow' up stroke, and a 2 second rest
++ Slow Bench Press (6:1:6:2) - 6 second 'slow' down stroke, a 1 second hold, a 6 second 'slow' up stroke, and a 2 second rest
 
-+ Explosive Bench Press or Squat (8:0:1:2) - 8 second 'slow' down stroke, no rest, a 1 second 'explosive' up stroke, and a 2 second rest
++ Explosive Bench Press (8:0:1:2) - 8 second 'slow' down stroke, no rest, a 1 second 'explosive' up stroke, and a 2 second rest
 
 
 NOTE: a long press of the SELECT button (a HOLD) while the Timer icon is highlighted swaps the positive and negative lifting times.  This is helpful when you are doing rapid positive lifts and slow negative lifts. In the shoulder press, the weights typically start in a down position so you want an explosive positive lift followed by a slow negative lift. In contrast, with a bench press the weights typically start in an up position so you want to begin with a slow negative lift followed by a explosive positive lift.  Swapping the lift cycle with a (HOLD) can assist in moving between these types of exercises more rapidly.
